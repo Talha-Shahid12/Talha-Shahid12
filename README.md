@@ -5,10 +5,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) [![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) 
 
+## 🌐 Socials:
 
-
+[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link)
 
 </div><h3 align="left">Languages and Tools:</h3>
 
