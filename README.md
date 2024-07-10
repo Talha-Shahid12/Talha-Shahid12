@@ -5,7 +5,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) [![CV/Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=resume&logoColor=white)](link_to_your_cv_or_resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) [![CV/Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=microsoft-word&logoColor=white)](link_to_your_cv_or_resume)
+
 
 
 </div><h3 align="left">Languages and Tools:</h3>
