@@ -1,11 +1,12 @@
-<h1 align="center">Hello Devs 👀, I am Sameer</h1>
-<h3 align="center">a passionate Software Engineer, who stays most of the time in the his dorm room and trying to make next Facebook for the world</h3>
+<h1 align="center">Hello Devs 👀, I am Talha</h1>
+<h3 align="center">a passionate App Developer, who likes to develop thinking into code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Talha-Shahid12&theme=onestar" alt="Talha-Shahid12" /></a> </p>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sameer_vers3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12) [![CV/Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=resume&logoColor=white)](link_to_your_cv_or_resume)
+
 
 </div><h3 align="left">Languages and Tools:</h3>
 
