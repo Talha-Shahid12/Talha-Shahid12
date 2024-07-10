@@ -8,11 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Talha-Shahid12)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Talha.Shahid.8035/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/talha.__.arain)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@talha___shahid)
 
-## 🌐 Resume:
+## 🌐 Reach me:
 
-[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/5th-Semester-dfff8e96c6b64d929a8c151380205655?pvs=4)
+
 
 </div><h3 align="left">Languages and Tools:</h3>
 
