@@ -11,7 +11,7 @@
 
 ## 🌐 Reach me:
 
-[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ev9qa_liOLRsFnzIdGTyMpBUfN9IC1f0/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/CV%2FResume-blue.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1JBbZfvL9vPTJdKWyMfgNzhji8hAeBpxn/view?usp=sharing)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/5th-Semester-dfff8e96c6b64d929a8c151380205655?pvs=4)
 
 
